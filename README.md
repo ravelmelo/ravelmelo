@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravelmelo
 - 👀 I’m interested in be a better Developer and Architect
-- 🌱 I’m currently learning Camel in Action - Claus Ibsen | Clean Code 
+- 🌱 I’m currently learning Camel in Action - Claus Ibsen | Clean Code  / RabbitMQ
 - 💞️ I’m looking to collaborate on Java | Architecture projects
 - 📫 How to reach me ravel.melo@philips.com
 
